@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DefaultSpreadsheetName" xml:space="preserve">
+    <value>New Spreadsheet</value>
+  </data>
+  <data name="ErrorDialogTextCircularReference" xml:space="preserve">
+    <value>Invalid Formula: The formula cannot have circular references.</value>
+  </data>
+  <data name="ErrorDialogTextCouldNotOpenNew" xml:space="preserve">
+    <value>Could not open new spreadsheet.</value>
+  </data>
+  <data name="ErrorDialogTextFileLoad" xml:space="preserve">
+    <value>An error has occurred populating the cells.  Invalid cell coordinates in file.</value>
+  </data>
+  <data name="ErrorDialogTextFormulaFormat" xml:space="preserve">
+    <value>Invalid Formula: The formula is not correctly formatted.</value>
+  </data>
+  <data name="ErrorDialogTextNoChangesMade" xml:space="preserve">
+    <value>No recent changes have been made or saved.</value>
+  </data>
+  <data name="ErrorDialogTextOpeningFile" xml:space="preserve">
+    <value>An error has occurred opening the file.</value>
+  </data>
+  <data name="ErrorDialogTextOpeningFileUnknown" xml:space="preserve">
+    <value>An unknown error has occurred opening the file.</value>
+  </data>
+  <data name="ErrorDialogTextRecalculatingCells" xml:space="preserve">
+    <value>An error has occurred recalculating the cells.  Please verify that all formulas are valid and reference valid cell names.</value>
+  </data>
+  <data name="ErrorDialogTextSavingFile" xml:space="preserve">
+    <value>An error has occurred saving the file.</value>
+  </data>
+  <data name="ErrorDialogTextSavingFileUnknown" xml:space="preserve">
+    <value>An unknown error has occurred saving the file.</value>
+  </data>
+  <data name="ErrorDialogTextUndoUnknown" xml:space="preserve">
+    <value>An unknown error has occurred undoing the previous operation.</value>
+  </data>
+  <data name="ErrorDialogTextUnknown" xml:space="preserve">
+    <value>An unknown error has occurred.</value>
+  </data>
+  <data name="ErrorDialogTitle" xml:space="preserve">
+    <value>Spreadsheet Error</value>
+  </data>
+  <data name="HelpDialogTextAbout1" xml:space="preserve">
+    <value>CS3505 Cloud Spreadsheet</value>
+  </data>
+  <data name="HelpDialogTextAbout2" xml:space="preserve">
+    <value>Windows Forms Spreadsheet Application v. 1.0</value>
+  </data>
+  <data name="HelpDialogTextAbout3" xml:space="preserve">
+    <value>CS 3505 Spring 2013</value>
+  </data>
+  <data name="HelpDialogTextAbout4" xml:space="preserve">
+    <value>University of Utah</value>
+  </data>
+  <data name="HelpDialogTextAbout5" xml:space="preserve">
+    <value>by John Chase, Thomas Gonsor, Michael Quigley, Zach Wilcox</value>
+  </data>
+  <data name="HelpDialogTextContents1" xml:space="preserve">
+    <value>Using the Spreadsheet</value>
+  </data>
+  <data name="HelpDialogTextContents2" xml:space="preserve">
+    <value>You can set the contents of a cell by typing text into the Contents box. The cells accept numbers, plain text or formulas as their contents.  Formulas need to have the equals sign (=) in front of them and need to use standard infix notation in order for the spreadsheet to accurately calculate the end value (e.g. =A2/A3 + A4*(A5 - 1)). Additionally any cells referenced in the formula need to have a numeric value associated with them.</value>
+  </data>
+  <data name="HelpDialogTextContents3" xml:space="preserve">
+    <value>You can select different cells by using the mouse, the arrow keys or by pressing Enter. If you want to save, open or create a new spreadsheet, simply use the file menu. You can have multiple spreadsheets open at a time. Enjoy!</value>
+  </data>
+  <data name="HelpDialogTitle" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="InputBoxLabelNameText" xml:space="preserve">
+    <value>Name:</value>
+  </data>
+  <data name="InputBoxLabelPasswordText" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="InputBoxTextEdit" xml:space="preserve">
+    <value>Please enter the name of the spreadsheet you would like to edit.</value>
+  </data>
+  <data name="InputBoxTextNew" xml:space="preserve">
+    <value>Please enter the name of the spreadsheet you would like to create.</value>
+  </data>
+  <data name="OpenDialogTitle" xml:space="preserve">
+    <value>Open a Spreadsheet File</value>
+  </data>
+  <data name="SaveAsDialogFileFilterTypes" xml:space="preserve">
+    <value>Spreadsheet Files (*.ss)|*.ss|All Files (*.*)|*.*</value>
+  </data>
+  <data name="SaveAsDialogTitle" xml:space="preserve">
+    <value>Save a Spreadsheet File</value>
+  </data>
+  <data name="SaveChangesDialogText" xml:space="preserve">
+    <value>Do you want to save the changes you made to "%" ?</value>
+  </data>
+  <data name="SaveChangesDialogTitle" xml:space="preserve">
+    <value>Save Changes?</value>
+  </data>
+  <data name="SpreadsheetFileExtension" xml:space="preserve">
+    <value>.ss</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="SpreadsheetIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SpreadsheetIcon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,24 @@
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetServer.exe
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetServer.pdb
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetModel.dll
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetUtilities.dll
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetView.exe
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetModel.pdb
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetUtilities.pdb
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetView.pdb
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetView.xml
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\obj\x86\Debug\SpreadsheetServer.csprojResolveAssemblyReference.cache
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\obj\x86\Debug\SpreadsheetServer.exe
+\\chips.eng.utah.edu\home\gonsor\.win_desktop\cs3505\Spreadsheet\SpreadsheetServer\obj\x86\Debug\SpreadsheetServer.pdb
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetServer.exe
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetServer.pdb
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetModel.dll
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetUtilities.dll
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetView.exe
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetModel.pdb
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetUtilities.pdb
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetView.pdb
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\bin\Debug\SpreadsheetView.xml
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\obj\x86\Debug\SpreadsheetServer.exe
+C:\Users\Thomas\Documents\CS 3505\FinalProject\Spreadsheet\SpreadsheetServer\obj\x86\Debug\SpreadsheetServer.pdb
